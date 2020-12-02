@@ -10,8 +10,11 @@
 
 #a1 {
     border: 3px solid #30d624;
-    border: 3px solid text-align: center;
+    border: 3px solid #30d624;
+    border: 3px solid;
+    text-align: center;
     font-size: 30px;
+}
 }
 
 #a2 {
