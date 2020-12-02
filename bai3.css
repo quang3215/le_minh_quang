@@ -1,0 +1,32 @@
+#a {
+    border-left: 3px solid #d62424;
+    border-right: 3px solid #d62424;
+    border-bottom: 3px solid #d62424;
+    height: 200px;
+    width: 50%;
+    margin: 0 auto;
+    background-color: rgb(255, 254, 251);
+}
+
+#a1 {
+    border: 3px solid #30d624;
+    border: 3px solid text-align: center;
+    font-size: 30px;
+}
+
+#a2 {
+    text-align: center;
+    padding: 0px;
+    font-size: 35px;
+}
+
+#a3 {
+    display: flex;
+    justify-content: center;
+}
+
+#a4 {
+    padding: 10px;
+    width: 200px;
+    outline: none;
+}
